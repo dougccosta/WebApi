@@ -9,9 +9,9 @@ namespace TodoApi
     {       
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<TodoContext>(opt => 
-                opt.UseInMemoryDatabase("TodoList"));
             services.AddMvc();
+            var connection = @"Server=BNU-DOUGLASC\SQLEXPRESS;Database=teste;Trusted_Connection=True;ConnectRetryCount=0";
+            services.AddDbContext<TodoContext>(options => options.UseSqlServer(connection));
         }
 
         public void Configure(IApplicationBuilder app)
