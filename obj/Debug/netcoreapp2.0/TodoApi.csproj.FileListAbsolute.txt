@@ -1,0 +1,11 @@
+C:\Users\douglas.costa\Desktop\dotNetCore\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+C:\Users\douglas.costa\Desktop\dotNetCore\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+C:\Users\douglas.costa\Desktop\dotNetCore\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+C:\Users\douglas.costa\Desktop\dotNetCore\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\douglas.costa\Desktop\dotNetCore\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\douglas.costa\Desktop\dotNetCore\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csprojResolveAssemblyReference.cache
+C:\Users\douglas.costa\Desktop\dotNetCore\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\douglas.costa\Desktop\dotNetCore\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\douglas.costa\Desktop\dotNetCore\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+C:\Users\douglas.costa\Desktop\dotNetCore\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\douglas.costa\Desktop\dotNetCore\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
